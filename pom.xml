@@ -36,7 +36,7 @@
         <qrgen.version>1.4</qrgen.version>
         <slf4j.version>1.7.29</slf4j.version>
         <redisson.version>3.2.3</redisson.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.12.2</jackson.version>
         <dom4j.version>1.6.1</dom4j.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
         <asm.version>5.0.3</asm.version>
